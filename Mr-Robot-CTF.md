@@ -22,7 +22,7 @@ Nmap Scan:
 
 Gobuster:
 
-![description](images/Mr-Robot/image 1.png)
+![description](images/Mr-Robot/image1.png)
 
 Found robots.txt and wp-login showing status 200.
 
