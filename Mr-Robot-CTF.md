@@ -1,6 +1,7 @@
-## Mr Robot CTF
+# Mr Robot CTF
 
-## Platform: TryHackMe Category: Web
+## Platform: TryHackMe 
+## Category: Linux
 
 ## Description:
 
