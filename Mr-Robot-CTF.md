@@ -71,4 +71,4 @@ The flag was found in the “root” directory of the root user.
 
 ## References/Tools Used:
 #### Tools: Nmap, Gobuster, Burp Suite, Hydra
-#### References: PentestMonkey repo, GTFOBins
+#### References: pentestmonkey repo, GTFOBins
