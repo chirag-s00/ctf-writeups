@@ -70,5 +70,5 @@ The flag was found in the “root” directory of the root user.
 **Third Flag: 04787ddef27c3dee1ee161b21670b4e4**
 
 ## References/Tools Used:
-Tools: Nmap, Gobuster, Burp Suite, Hydra
-References: PentestMonkey repo, GTFOBins
+#### Tools: Nmap, Gobuster, Burp Suite, Hydra
+#### References: PentestMonkey repo, GTFOBins
