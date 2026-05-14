@@ -35,6 +35,8 @@ Found first flag in directory shown in robots.txt
 
 The target was running a wordpress instance with a weak admin password which can be found via bruteforce. The login point /wp-login.php  had no rate limiting or lock out mechanism to limit the number of attempts making it a significant vulnerability.
 
+## Exploitation:
+
 ### Hydra:
 
 ![description](images/Mr-Robot/image2.png)
