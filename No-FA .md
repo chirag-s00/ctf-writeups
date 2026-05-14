@@ -48,6 +48,4 @@ After entering the OTP, we get the flag - picoCTF{n0_r4t3_n0_4uth_7bd3c284}.
 
 ## References/Tools Used:
 
-Tools: flask unsign
-
-References: hashes.com
+Tools: flask unsign, hashes.com
