@@ -47,7 +47,7 @@ Using Hydra again, the password **ER28-0652** was found.
 
 ### Reverse shell:
 
-After logging in using the credentials, we go to the editor tab and paste a reverse shell code in archive.php using the pentestmonkey repo. Then the page can be executed to gain remote access using a netcat listener.
+After logging in using the credentials, we go to the editor tab and paste a reverse shell code in archive.php using the pentestmonkey repo. Then, the page can be executed to gain remote access using a netcat listener.
 
 ![description](images/Mr-Robot/image3.png)
 
