@@ -9,7 +9,7 @@ Can you root this Mr. Robot styled machine? This is a virtual machine meant for 
 
 ## Summary:
 
-The target was running a wordpress instance with a weak admin password which can be found via bruteforce. Accessed the admin dashboard once credentials were obtained and injected a reverse shell payload into archive.php using the plugin editor. A reverse shell was obtained using a netcat listener. Privilege escalation was achieved by enumerating SUID binaries and exploiting a misconfigured binary to gain a root shell.
+The target was running a wordpress instance with a weak admin password which can be found via bruteforce. The admin dashboard was accessed once credentials were obtained and a reverse shell payload was injected into archive.php using the plugin editor. A reverse shell was obtained using a netcat listener. Privilege escalation was achieved by enumerating SUID binaries and exploiting a misconfigured binary to gain a root shell.
 
 ## Reconnaissance:
 
