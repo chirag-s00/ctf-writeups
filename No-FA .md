@@ -10,7 +10,7 @@ Seems like some data has been leaked! Can you get the flag?
 
 ## Summary:
 
-The challenge provided application source code and a user database. The flag is obtained by logging in as admin.
+The challenge provided the application source code and a user database. The flag is obtained by logging in as admin.
 
 ## Reconnaissance:
 
